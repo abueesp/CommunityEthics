@@ -7,7 +7,7 @@ Abueesp, Jmiehau
 
 **Breve descripción del proyecto**:
 
-Proyecto n000. Elaboracion de una arquitectura juridica y organizacional para Inversal.
+Proyecto 000. Elaboracion de una arquitectura juridica y organizacional para Inversal.
 
 **Estado del proyecto**: 
 
