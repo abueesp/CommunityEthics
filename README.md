@@ -41,6 +41,8 @@ En ejecución
 
 .1.5. Directiva de Buena Fe 100%
 
+.1.6. Directiva de Donaciones 15% [link de Fredy](http://sevilla.guifi.net/pad/p/objecion-fiscal)
+
 `.2. Convenciones`
 
 .2.1. Plantilla de Proyectos 100%
@@ -69,6 +71,7 @@ En ejecución
 
 `.8. Inscripcion AEPD`
 
+
 **_Hitos que hacen falta_**
 
 0. Listado de socios fundadores AG. Listado de administradores por area. JD. Participantes.
@@ -94,6 +97,7 @@ Un ordenador y muchas ganas de querer escribir y leer codigo en un lenguaje que 
 
 **Listado de participantes**:
 
+Fredy (Gacias por el link!)
 
 **Licencias bajo las que se publica el contenido del proyecto**: 
 
