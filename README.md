@@ -1,4 +1,4 @@
-## Proyecto 000: Inversal Community Ethics
+## Inversal Community Ethics
 
 **Responsables del proyecto**: 
 
@@ -7,7 +7,7 @@ Abueesp, Jmiehau
 
 **Breve descripción del proyecto**:
 
-Elaboracion de una arquitectura juridica y organizacional para Inversal.
+Proyecto 000. Elaboracion de una arquitectura juridica y organizacional para Inversal.
 
 **Estado del proyecto**: 
 
@@ -17,7 +17,7 @@ En ejecución
 **Listado de tareas y funciones, escala de tiempo, barra de progreso, o diagrama de Gantt**:
 
 
-0. Arquitectura organizacional y regulacion juridica. Estudio, comparativa y analisis fenomenologico. 
+0. Genesis. Arquitectura organizacional y regulacion juridica. Estudio, comparativa y analisis fenomenologico. 
 
 0.1. Fin asociativo. Que es y que no es Inversal. 
 
