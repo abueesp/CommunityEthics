@@ -90,7 +90,7 @@ Médida de seguridad. Nivel Básico por naturaleza sencilla de los datos persona
 
 **Listado de herramientas, procedimientos, recursos y materiales que se precisan**:
 
-Un ordenador y muchas ganas de querer escribir y leer codigo en un lenguaje que carece de precision y uniformidad, desrolr un estandar de sistema complejo adaptativo minimo donde interaccionamosn maquinas de estados infinitos llenas de bugs y conectarlo, en mitad de produccion, a uno de los sistemas principales de la red, el cual utiliza una gran variedad de protocolos que pueden llegar a tener mas de 100 anos de antiguedad (lol)
+Un ordenador y muchas ganas de querer escribir y leer codigo en un lenguaje que carece de precision y uniformidad, desrolr un estandar de sistema complejo adaptativo minimo donde podamos interactuar maquinas de estados infinitos llenas de bugs y conectarlo, en mitad de produccion, a uno de los sistemas principales de la red, el cual utiliza una gran variedad de protocolos que pueden llegar a tener mas de 100 anos de antiguedad (lol)
 
 **Listado de participantes**:
 
