@@ -2,7 +2,7 @@
 
 **Responsables del proyecto**: 
 
-Abueesp
+Abueesp, Jmiehau
 
 
 **Breve descripción del proyecto**:
