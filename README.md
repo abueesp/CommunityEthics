@@ -17,7 +17,7 @@ En ejecución
 **Listado de tareas y funciones, escala de tiempo, barra de progreso, o diagrama de Gantt**:
 
 
-0. Genesis. Arquitectura organizacional y regulacion juridica. Estudio, comparativa y analisis fenomenologico. 
+0. Genesis. Arquitectura organizacional y regulacion juridica. Estudio, comparativa y analisis fenomenologico. Tecnologias sociales y STS.
 
 0.1. Fin asociativo. Que es y que no es Inversal. 
 
