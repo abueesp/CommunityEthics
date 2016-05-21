@@ -17,11 +17,15 @@ En ejecución
 **Listado de tareas y funciones, escala de tiempo, barra de progreso, o diagrama de Gantt**:
 
 
-0. Genesis. Arquitectura organizacional y regulacion juridica. Estudio, comparativa y analisis fenomenologico. Tecnologias sociales y STS.
+0. Genesis. 
+ 
+0.1. Arquitectura organizacional y regulacion juridica. Estudio, comparativa y analisis fenomenologico. STS, SocialTech & Social Physics 100 %
 
-0.1. Fin asociativo. Que es y que no es Inversal. 
+0.2. Fin asociativo. Que es y que no es Inversal 100%
 
-0.2. Reglamentacion. Bienvenida y Pilares. 100%
+0.3. Reglamentacion. Bienvenida y Pilares 100%
+
+0.4. Eleccion de la plataforma online entre  ~~Mediawiki ~~ o Github 100%
 
 
 1. Directivas
