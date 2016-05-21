@@ -1,4 +1,4 @@
-## Inversal-CommunityEthics
+## Inversal Community Ethics
 
 **Responsables del proyecto**: 
 
