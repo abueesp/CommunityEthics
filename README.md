@@ -1,6 +1,4 @@
-# SOCIE-TIC-CommunityEthics
-
-##PLANTILLA DE PROYECTO
+## Inversal-CommunityEthics
 
 **Responsables del proyecto**: 
 
