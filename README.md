@@ -38,23 +38,23 @@ En ejecución
 
 2. Convenciones: 
 
-.2.1. Plantilla de Proyectos 100%
+2.1. Plantilla de Proyectos 100%
 
-.2.2. Plantilla de Votacion de Socios 100% 
+2.2. Plantilla de Votacion de Socios 100% 
 
-.2.3. Plantilla General de Votacion de Propuestas 100%
+2.3. Plantilla General de Votacion de Propuestas 100%
 
-.2.4. Plantilla de Eventos 25%
+2.4. Plantilla de Eventos 25%
 
 3. Ensayos:
 
 4. meta.Inversal.LINK: Socializacion del organismo
 
-.4.1. Estatutos 50%
+4.1. Estatutos 50%
 
-.4.2. Reglamento 100% 
+4.2. Reglamento 100% 
 
-.4.3. Actas Fundacionales 50%
+4.3. Actas Fundacionales 50%
 
 5. Alta notarial e Inscripcion
 
@@ -85,7 +85,7 @@ Médida de seguridad. Nivel Básico por naturaleza sencilla de los datos persona
 
 **Listado de herramientas, procedimientos, recursos y materiales que se precisan**:
 
-Un ordenador y muchas ganas de querer escribir y analizar codigo en un lenguaje que carece de precision y uniformidad, para construir un sistema complejo adaptativo formado por maquinas de estados infinitos y conectarlo, en mitad de produccion, a la red, la cual utiliza una gran variedad de protocolos que pueden llegar a tener mas de 100 anos de antiguedad.
+Un ordenador y muchas ganas de querer escribir y analizar codigo en un lenguaje que carece de precision y uniformidad, para construir un sistema complejo adaptativo formado por maquinas de estados infinitos y conectarlo, en mitad de produccion, a uno de los sistemas principales de la red, el cual utiliza una gran variedad de protocolos que pueden llegar a tener mas de 100 anos de antiguedad.
 
 **Listado de participantes**:
 
