@@ -7,7 +7,7 @@ Abueesp, Jmiehau
 
 **Breve descripción del proyecto**:
 
-Proyecto 000. Elaboracion de una arquitectura juridica y organizacional para Inversal.
+Proyecto n000. Elaboracion de una arquitectura juridica y organizacional para Inversal.
 
 **Estado del proyecto**: 
 
@@ -17,7 +17,7 @@ En ejecución
 **Listado de tareas y funciones, escala de tiempo, barra de progreso, o diagrama de Gantt**:
 
 
-.0. Genesis. 
+.0. *Genesis.* 
  
 .0.1. Arquitectura organizacional y regulacion juridica. Estudio, comparativa y analisis fenomenologico. STS, SocialTech & Social Physics 100 %
 
@@ -27,7 +27,7 @@ En ejecución
 
 .0.4. Eleccion de la plataforma online entre  ~~Mediawiki~~ o Github 100%
 
-.1. Directivas
+.1. *Directivas*
 
 .1.1. Directiva de Miembros 100%
 
@@ -39,7 +39,7 @@ En ejecución
 
 .1.5. Directiva de Buena Fe 100%
 
-.2. Convenciones: 
+.2. *Convenciones*
 
 .2.1. Plantilla de Proyectos 100%
 
@@ -49,9 +49,9 @@ En ejecución
 
 .2.4. Plantilla de Eventos 25%
 
-.3. Ensayos:
+.3. *Ensayos*
 
-.4. meta.Inversal.LINK: Socializacion del organismo
+.4. *meta.Inversal.LINK: Socializacion del organismo*
 
 .4.1. Estatutos 50%
 
@@ -59,15 +59,15 @@ En ejecución
 
 .4.3. Actas Fundacionales 50%
 
-.5. Alta notarial e Inscripcion
+.5. *Alta notarial e Inscripcion RA*
 
-.6. Licencia de apertura
+.6. *Licencia de apertura*
 
-.7. Contabilidad
+.7. *Contabilidad*
 
-.8. Inscripcion AEPD
+.8. *Inscripcion AEPD*
 
-_Hitos que hacen falta_
+**_Hitos que hacen falta_**
 
 0. Listado de socios fundadores AG. Listado de administradores por area. JD. Participantes.
 
