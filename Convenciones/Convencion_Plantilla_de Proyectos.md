@@ -19,6 +19,8 @@ Esbozo / En ejecución / Suspendido / Terminado / Destacado
 
 Descomponer las tareas permite que varias personas puedan aportar cada uno su grado de arena más fácilmente. Establecer horizontes de tiempo permite realizar controles.
 
+*Hitos que faltan*
+
 
 **Listado de herramientas, procedimientos, recursos y materiales que se precisan**:
 
