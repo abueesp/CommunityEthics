@@ -19,7 +19,7 @@ En ejecución
 
 `.0. Genesis.`
  
-.0.0. Arquitectura organizacional y regulacion juridica. STS, SocialTech & Social Physics 100%
+.0.0. Arquitectura organizacional y regulacion juridica. STS, tecnologias sociales & social physics 100%
 
 .0.1. Estudio, comparativa y analisis fenomenologico 100 %
 
