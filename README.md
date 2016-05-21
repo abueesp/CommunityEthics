@@ -97,7 +97,7 @@ Un ordenador y muchas ganas de querer escribir y leer codigo en un lenguaje que 
 
 **Listado de participantes**:
 
-Fredy (Gracias por el link!)
+Melozo (Gracias por el texto del blog!) Fredy (Gracias por el link!)
 
 **Licencias bajo las que se publica el contenido del proyecto**: 
 
