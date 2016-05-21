@@ -19,7 +19,7 @@ En ejecución
 
 `.0. Genesis.`
  
-.0.0. Arquitectura organizacional y regulacion juridica. STS, tecnologias sociales & social physics 100%
+.0.0. Arquitectura organizacional, tecnologias sociales y regulacion juridica 100%
 
 .0.1. Estudio, comparativa y analisis fenomenologico 100 %
 
@@ -63,13 +63,15 @@ En ejecución
 
 `.4.3. Actas Fundacionales 50%`
 
-`.5. Alta notarial e Inscripcion RA`
+`.5. Alta notarial e Inscripcion RA 10%`
 
-`.6. Licencia de apertura`
+`.6. Licencia de apertura 10%`
 
-`.7. Contabilidad`
+`.7. Contabilidad 0%`
 
-`.8. Inscripcion AEPD`
+`.8. Inscripcion AEPD 10%`
+
+`.9. Iteraciones 100%` 
 
 
 **_Hitos que hacen falta_**
