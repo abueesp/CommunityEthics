@@ -16,9 +16,15 @@ En ejecución
 
 **Listado de tareas y funciones, escala de tiempo, barra de progreso, o diagrama de Gantt**:
 
-0. Arquitectura organizacional y analisis juridico. Fin asociativo. Que es y que no es Inversal. Bienvenida y Pilares. 100%
 
-1. Reglamentacion. Terminos:
+0. Arquitectura organizacional y regulacion juridica. Estudio, comparativa y analisis fenomenologico. 
+
+0.1. Fin asociativo. Que es y que no es Inversal. 
+
+0.2. Reglamentacion. Bienvenida y Pilares. 100%
+
+
+1. Directivas
 
 1.1. Directiva de Miembros 100%
 
@@ -32,23 +38,23 @@ En ejecución
 
 2. Convenciones: 
 
-2.1. Plantilla de Proyectos 100%
+.2.1. Plantilla de Proyectos 100%
 
-2.2. Plantilla de Votacion de Socios 100% 
+.2.2. Plantilla de Votacion de Socios 100% 
 
-2.3. Plantilla General de Votacion de Propuestas 100%
+.2.3. Plantilla General de Votacion de Propuestas 100%
 
-2.4. Plantilla de Eventos 25%
+.2.4. Plantilla de Eventos 25%
 
 3. Ensayos:
 
 4. meta.Inversal.LINK: Socializacion del organismo
 
-4.1. Estatutos 50%
+.4.1. Estatutos 50%
 
-4.2. Reglamento 100% 
+.4.2. Reglamento 100% 
 
-4.3. Actas Fundacionales 50%
+.4.3. Actas Fundacionales 50%
 
 5. Alta notarial e Inscripcion
 
