@@ -21,6 +21,7 @@ Descomponer las tareas permite que varias personas puedan aportar cada uno su gr
 
 *Hitos que faltan*
 
+Aquellos asuntos que faltan aun por resolver para poder seguir avanzando en las tareas.
 
 **Listado de herramientas, procedimientos, recursos y materiales que se precisan**:
 
