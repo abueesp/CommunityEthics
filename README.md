@@ -94,7 +94,6 @@ Un ordenador y muchas ganas de querer escribir y analizar codigo en un lenguaje 
 
 **Listado de participantes**:
 
-Abueesp
 
 **Licencias bajo las que se publica el contenido del proyecto**: 
 
