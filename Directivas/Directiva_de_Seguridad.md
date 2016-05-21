@@ -1,0 +1,20 @@
+####DIRECTIVA DE SEGURIDAD
+
+Un entorno de aprendizaje y experimentación ha de ser seguro para la vida de las personas que intervienen en él. De acuerdo con el MIT, es un *must have* dentro de la ética hacker (MIT): 
+- Estar a salvo en todo momento
+- No hacerle daño a nada
+- No hacerle daño a nadie, ya sea física, mental o emocionalmente
+
+De igual manera, **en Inversal tratamos la seguridad en todos sus ámbitos como un pilar fundamental dentro de nuestra cultura y como un elemento esencial en sí mismo del conocimiento que se comparte**. Entiende que **tú eres el responsable último de seguir las medidas de seguridad y de hacerlas cumplir. No corras o provoques ningún riesgo innecesario, ni pongas en riesgo a otras personas. Si no sabes hacer realmente algo no te expongas a riesgos cuando no sea necesario, tómate tu tiempo, consulta primero y aprende.**
+
+**En el caso de que se detecte algún riesgo grave para la vida o la salud de las personas intervinientes, el proyecto deberá ser suspendido de inmediato.** Recuerda que evitar los accidentes es responsabilidad de todos, también la tuya. **Los socios que sean sorprendidos llevando a cabo actuaciones deliberadas que pudieran ser consideradas peligrosas de forma grave para la vida o la salud de las personas serán considerados inmediatamente expulsados de la asociación.**
+
+Sin embargo, vivir es un riesgo, y más allá de nuestras imprudencias aún continúan existiendo riesgos objetivos. Precisamente **para que estos riesgos puedan ser conocidos por todos han de especificarse en la plantilla de proyecto ##PlantilladeProyecto de forma concreta y clara, al menos, las siguientes cuestiones:
+
+- **Breve descripción, lugares, fechas, y esquema de las actividades, haciendo hincapié en sus posibles riesgos y medidas de seguridad**. Esto no sólo permite proteger la vida y la salud de quienes participan, sino que también lo hace auditable y facilita poder compartir el proyecto y replicarlo, así como ayudar a mejorarlo y adaptarlo dentro de Inversal.
+
+- **Listas de herramientas, procedimientos, recursos y materiales a utilizar**. En el caso de los makers, el permiso de acceso a aquéllas herramientas cuyo uso seguro requiera de conocimientos especiales, o no cuenten con el marcado CE o equivalente, estará bajo responsabilidad de una persona solvente y con conocimientos suficientes en la materia, que se encuentre encargada de la supervisión del proyecto o bien sea la propietaria de dicha herramienta. En caso de existir ambas, deberan coordinarse adecuadamente entre sí para permitir el acceso.
+
+- **Listado de participantes**. En el caso de que estén participando socios que tengan menos de seis meses o ningún proyecto todavía, éstos sólo podrán participar si lo hacen bajo la supervisión de, al menos, otro socio de Inversal. **En el caso en el que se espere la asistencia de menores de edad deberá mencionarse esta cuestión**, así como a las personas encargadas en todo momento de su seguridad, para lo cual resulta importante contar un consentimiento expreso de los padres o del tutor.
+
+- **Licencias bajo las que se publica el contenido del proyecto**. Éste no es un requisito imprescindible, pero acordarlo al inicio del proyecto ayuda a evitar posteriores conflictos y permite que las personas puedan participar tomando verdadera conciencia de la contribución que está haciendo. Recuerda que todo el contenido de Internet tiene copyright salvo que se diga lo contrario. Sin embargo, en Inversal, **por omisión el contenido se considerará publicado bajo licencia Creative Commons BY-SA 4.0, la cual resulta equivalente a Free Art License 1.3 y GPLv3. Puedes escoger la licencia que quieras**, más restrictiva o más libre, e incluso puedes solicitar que tu proyecto no sea divulgado o que se mantenga confidencial; sin embargo recuerda que si lo realizas en Inversal lo lógico es que otras personas participen también de su proceso de creación, y **en cualquier caso, que el conocimiento que se genere pasará a formar parte del procomún de los socios de Inversal**.
