@@ -88,7 +88,7 @@ En ejecución
 Datos
 
 6. http://www.agpd.es/portalwebAGPD/canaldocumentacion/publicaciones/common/Guias/modelo_doc_seguridad.pdf
-Médida de seguridad. Nivel Básico por naturaleza sencilla de los datos personales. Cookies & LSSI
+Médida de seguridad. Nivel Básico por naturaleza sencilla de los datos personales. Cks & LSSI
 
 
 **Listado de herramientas, procedimientos, recursos y materiales que se precisan**:
