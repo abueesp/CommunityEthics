@@ -38,6 +38,8 @@ En ejecución
 
 2.3. Plantilla General de Votacion de Propuestas 100%
 
+2.4. Plantilla de Eventos 10%
+
 3. Ensayos:
 
 4. meta.Inversal.LINK: Socializacion del organismo
