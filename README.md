@@ -2,19 +2,15 @@
 
 **Responsables del proyecto**: 
 
-Abueesp, Jmiehau
 
 
 **Breve descripción del proyecto**:
 
-Proyecto 000. Elaboracion de una arquitectura juridica y organizacional minima para Inversal.
+Elaboracion de una arquitectura juridica y organizacional minima para Inversal.
 
 **Estado del proyecto**: 
 
-En ejecución
-
-
-**Listado de tareas y funciones, escala de tiempo, barra de progreso, o diagrama de Gantt**:
+Finalizado y en mantenimiento
 
 
 `.0. Genesis.`
@@ -41,7 +37,7 @@ En ejecución
 
 .1.5. Directiva de Buena Fe 100%
 
-.1.6. Directiva de Donaciones 15% [link de Fredy](http://sevilla.guifi.net/pad/p/objecion-fiscal)
+.1.6. Directiva de Donaciones 15%
 
 `.2. Convenciones`
 
@@ -61,7 +57,9 @@ En ejecución
 
 .4.2. Reglamento 100%
 
-`.4.3. Actas Fundacionales 50%`
+.4.3. Actas Fundacionales 100%
+
+.4.4. Registro de socios 10% 
 
 `.5. Alta notarial e Inscripcion RA 10%`
 
@@ -76,34 +74,31 @@ En ejecución
 
 **_Hitos que hacen falta_**
 
-0. Listado de socios fundadores AG. Listado de administradores por area. JD. Participantes.
+0. Presupuesto (ERP o Github) Calendario de accesos.Que capital tiene la asociacion? Contabilidad? Process to audit incomes and expenditures. Startup costs and fixed costs (Appendix). 
 
-1. Presupuesto (ERP o Github) Calendario de accesos.Que capital tiene la asociacion? Contabilidad? Process to audit incomes and expenditures. Startup costs and fixed costs (Appendix). 
+1. Canales de comunicación?  email, phone. Un día un par de horas fijas para que la gente pueda pasarse
 
-2. Canales de comunicación?  email, phone. Un día un par de horas fijas para que la gente pueda pasarse
+2. Cita con el notario. Cita con la gerencia.
 
-3. Cita con el notario. Cita con la gerencia.
+3. Listado de proyectos (Github). Some activities: Auspiciar Workshops, tutorials, making, instructables, seminars, meetups, competitions, free craft nights, ágoras, challenges, hackathons, makerspaces, hacklabs, openwebinars, webcasts. Merchandising, renting tools.
 
-4. Listado de proyectos (Github). Some activities: Auspiciar Workshops, tutorials, making, instructables, seminars, meetups, competitions, free craft nights, ágoras, challenges, hackathons, makerspaces, hacklabs, openwebinars, webcasts. Merchandising, renting tools.
+4. Private and public grants? Adhesion, partnerships. JA: El programa de incentivos contemplará dos convocatorias de 3 años de ejecución cada una; una en 2016 y otra en 2017, con una dotación de 15 M
 
-5. Private and public grants? Adhesion, partnerships. JA: El programa de incentivos contemplará dos convocatorias de 3 años de ejecución cada una; una en 2016 y otra en 2017, con una dotación de 15 Mill.€
-Datos
-
-6. http://www.agpd.es/portalwebAGPD/canaldocumentacion/publicaciones/common/Guias/modelo_doc_seguridad.pdf
-Médida de seguridad. Nivel Básico por naturaleza sencilla de los datos personales. Cks & LSSI
+5. http://www.agpd.es/portalwebAGPD/canaldocumentacion/publicaciones/common/Guias/modelo_doc_seguridad.pdf
+Medida de seguridad: Nivel Básico por naturaleza sencilla de los DPs. Cks & LSSI
 
 
 **Listado de herramientas, procedimientos, recursos y materiales que se precisan**:
 
-Un ordenador y muchas ganas de querer escribir y leer codigo en un lenguaje que carece de precision y uniformidad, y desarrollar un sistema adaptativo minimo donde podamos interactuar maquinas de estados infinitos llenas de bugs y conectarlo, en mitad de produccion, a un sistema principal de la red el cual utiliza una gran variedad de protocolos que pueden llegar a tener mas de 100 anos de antiguedad (lol)
+`Un ordenador, y muchas ganas de querer escribir y leer código en un lenguaje que carece de precision y uniformidad, y desarrollar un sistema adaptativo mínimo donde podamos interactuar máquinas de estados infinitos llenas de bugs y conectarlo, en mitad de producción, al kernel social, el cual utiliza una gran diversidad de protocolos, entre los que puede haber algunos hasta con cientos de años de antiguedad.` ( LoL )
+
+Un ordenador con conexión a Internet y una cuenta de Github. Si no sabes usar Github o no tienes una cuenta todavía, [puedes crearte una cuenta gratuita](https://conociendogithub.readthedocs.io/en/latest/data/dinamica-de-uso/) y empezar a participar en Inversal. Puedes realizar un `commit` y exponer tus argumentos para el mismo en un *issue* o a través de la misma descripcion del `commit`. Para la mayoría de los textos se utiliza MarkDown por lo que si no sabes lo que es quizás puedas echarle un ojo a [esta guía](https://help.github.com/categories/writing-on-github/) o a [esta otra](https://guides.github.com/features/mastering-markdown/). Cualquier contribución positiva es bienvenida ¡Te esperamos!
 
 **Listado de participantes**:
 
-Melozo (Gracias por el texto del blog!) Fredy (Gracias por el link!)
 
 **Licencias bajo las que se publica el contenido del proyecto**: 
 
 Creative Commons BY-NC-SA 4.0.
-
 
 
