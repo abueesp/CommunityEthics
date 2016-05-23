@@ -87,6 +87,9 @@ Finalizado y en mantenimiento
 5. http://www.agpd.es/portalwebAGPD/canaldocumentacion/publicaciones/common/Guias/modelo_doc_seguridad.pdf
 Medida de seguridad: Nivel Básico por naturaleza sencilla de los DPs. Cks & LSSI
 
+6. Firma de actas
+
+7. Automatización del control de accesos
 
 **Listado de herramientas, procedimientos, recursos y materiales que se precisan**:
 
