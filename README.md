@@ -22,7 +22,7 @@ Finalizado y en mantenimiento
 
 .0.3. Reglamentacion. Bienvenida y Pilares 100%
 
-.0.4. Eleccion de la plataforma online entre  ~~Mediawiki~~ o Github 100%
+.0.4. Eleccion de la plataforma online entre  Mediawiki o Github 100%
 
 `.1. Directivas`
 
