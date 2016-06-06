@@ -1,4 +1,4 @@
-## Inversal Community Ethics
+## SOCIE:TIC Community Ethics
 
 **Breve descripción del proyecto**:
 
@@ -9,13 +9,16 @@ Elaboracion de una arquitectura juridica y organizacional minima para comunidade
 Finalizado y en mantenimiento
 
 
+**Listado de tareas y funciones, escala de tiempo, barra de progreso, o diagrama de Gantt**:
+
+
 `.0. Genesis.`
  
 .0.0. Arquitectura organizacional, tecnologias sociales y regulacion juridica 100%
 
 .0.1. Estudio, comparativa y analisis fenomenologico 100 %
 
-.0.2. Fin asociativo. Que es y que no es Inversal 100%
+.0.2. Fin asociativo. Qué es y qué no es Inversal 100%
 
 .0.3. Reglamentacion. Bienvenida y Pilares 100%
 
@@ -33,7 +36,7 @@ Finalizado y en mantenimiento
 
 .1.5. Directiva de Buena Fe 100%
 
-.1.6. Directiva de Donaciones 15%
+.1.6. Directiva de Donaciones 15% [link de Fredy](http://sevilla.guifi.net/pad/p/objecion-fiscal)
 
 `.2. Convenciones`
 
@@ -61,7 +64,7 @@ Finalizado y en mantenimiento
 
 `.6. Licencia de apertura 10%`
 
-`.7. Contabilidad 0%`
+`.7. Contabilidad 2%`
 
 `.8. Inscripcion AEPD 10%`
 
@@ -70,32 +73,31 @@ Finalizado y en mantenimiento
 
 **_Hitos que hacen falta_**
 
-0. Presupuesto (ERP o Github) Calendario de accesos.Que capital tiene la asociacion? Contabilidad? Process to audit incomes and expenditures. Startup costs and fixed costs (Appendix). 
+0. Que capital tiene la asociacion? Hace falta para los Estatutos. Contabilidad (ERP, Odoo o Github). Libro mayor y libro diario. CC. Calendario de accesos. Process to audit incomes and expenditures and Budget Decisions. Startup costs and fixed costs (Appendix). 
 
-1. Canales de comunicación?  email, phone. Un día un par de horas fijas para que la gente pueda pasarse
+1. Canales de comunicación? Email, phone. Un día un par de horas fijas para que la gente pueda pasarse. Dónde esta el formulario de Slack? Pegarlo en Bienvenida, Directiva de DP, Directiva de Participacion, Pilares, PBF. Concretar un dia a la semana y hora a la que se acuda regularmente para atención al público y general. Email de inversal.com o protonmail.com con auto-resend a socios. Línea telefónica en la nave?
 
-2. Cita con el notario. Cita con la gerencia.
+2. Automatización del control de accesos. 
 
 3. Listado de proyectos (Github). Some activities: Auspiciar Workshops, tutorials, making, instructables, seminars, meetups, competitions, free craft nights, ágoras, challenges, hackathons, makerspaces, hacklabs, openwebinars, webcasts. Merchandising, renting tools.
 
-4. Private and public grants? Adhesion, partnerships. JA: El programa de incentivos contemplará dos convocatorias de 3 años de ejecución cada una; una en 2016 y otra en 2017, con una dotación de 15 M
+4. Terminar los documentos que faltan. Firma de actas. Cita con el notario. Cita con la gerencia.
 
 5. http://www.agpd.es/portalwebAGPD/canaldocumentacion/publicaciones/common/Guias/modelo_doc_seguridad.pdf
 Medida de seguridad: Nivel Básico por naturaleza sencilla de los DPs. Cks & LSSI
 
-6. Firma de actas
+6. Private and public grants? Adhesion, partnerships. JA: El programa de incentivos contemplará dos convocatorias de 3 años de ejecución cada una; una en 2016 y otra en 2017, con una dotación de 15 M
 
-7. Automatización del control de accesos
 
 **Listado de herramientas, procedimientos, recursos y materiales que se precisan**:
 
-`Un ordenador, y muchas ganas de querer escribir y leer código en un lenguaje que carece de precision y uniformidad, y desarrollar un sistema adaptativo mínimo donde podamos interactuar máquinas de estados infinitos llenas de bugs y conectarlo, en mitad de producción, al kernel social, el cual utiliza una gran diversidad de protocolos, entre los que puede haber algunos hasta con cientos de años de antiguedad.` ( LoL )
+<s>`Un ordenador, y muchas ganas de querer escribir y leer código en un lenguaje que carece de precision y uniformidad, y desarrollar un sistema adaptativo mínimo donde podamos interactuar máquinas de estados infinitos llenas de bugs y conectarlo, en mitad de producción, al kernel social, el cual utiliza una gran diversidad de protocolos, entre los que puede haber algunos hasta con cientos de años de antiguedad.`</s> (LoL)
 
-Un ordenador con conexión a Internet y una cuenta de Github. Si no sabes usar Github o no tienes una cuenta todavía, [puedes crearte una cuenta gratuita](https://conociendogithub.readthedocs.io/en/latest/data/dinamica-de-uso/) y empezar a participar en Inversal. Puedes realizar un `commit` y exponer tus argumentos para el mismo en un *issue* o a través de la misma descripcion del `commit`. Para la mayoría de los textos se utiliza MarkDown por lo que si no sabes lo que es quizás puedas echarle un ojo a [esta guía](https://help.github.com/categories/writing-on-github/) o a [esta otra](https://guides.github.com/features/mastering-markdown/). Cualquier contribución positiva es bienvenida ¡Te esperamos!
+Un ordenador con conexión a Internet y una cuenta de Github. Si no sabes usar Github o no tienes una cuenta todavía, [puedes crearte una cuenta gratuita](https://conociendogithub.readthedocs.io/en/latest/data/dinamica-de-uso/) y empezar a participar en Inversal. Puedes realizar un `commit` y exponer tus argumentos para el mismo en un *issue* o a través de la misma descripcion del `commit`. Para la mayoría de los textos se utiliza MarkDown por lo que si no sabes lo que es quizás puedas echarle un ojo a [esta guía](https://help.github.com/categories/writing-on-github/), o a [esta otra](https://guides.github.com/features/mastering-markdown/), o utilizar [este editor](https://stackedit.io/editor). Cualquier contribución positiva es bienvenida ¡Te esperamos!
 
-
+**Listado de participantes**:
 **Licencias bajo las que se publica el contenido del proyecto**: 
 
-Creative Commons BY-NC-SA 4.0.
+Creative Commons BY-NC-SA 4.0
 
 
